@@ -7,7 +7,7 @@ public class Ej02 {
 =======
         System.out.println("el mismo cambio");
 >>>>>>> 79ee556 (tercer cambio)
-        System.out.println("segunda");
+        System.out.println("cambiamos");
         System.out.println("tercera");
     }
 }
