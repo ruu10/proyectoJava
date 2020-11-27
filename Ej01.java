@@ -2,7 +2,7 @@ package sesion01;
 
 public class Ej01 {
     public static void main(String[] args) {
-        System.out.println("Hola, un cambio");
+        System.out.println("primer cambio");
     }
 
 }
